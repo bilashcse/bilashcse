@@ -1,4 +1,4 @@
-### Hello ! I am Nazmul & I love to play with JavaScript�
+### Hello ! I am Nazmul & I love to play with JavaScript
 <!-- 
 ![views](https://komarev.com/ghpvc/?username=bilashcse&color=brightgreen)
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/bilashcse)
